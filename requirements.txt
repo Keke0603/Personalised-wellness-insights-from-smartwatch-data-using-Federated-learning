@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+scikit-learn
+torch
+flwr[simulation]
+matplotlib
+streamlit
+plotly

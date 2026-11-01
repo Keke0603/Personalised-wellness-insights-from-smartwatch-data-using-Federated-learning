@@ -1,0 +1,12 @@
+# Private personal health data
+data_private/
+data/personal/
+
+# Python cache & virtualenv
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Streamlit local credentials & state
+.streamlit/secrets.toml
